@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">calculadora</string>
+    <string name="calcular_coseno">Calcular Coseno</string>
+    <string name="angulo_de_coseno">Ingrese el numero</string>
+    <string name="grados_coseno">Grados</string>
+    <string name="radianes_coseno">Radianes</string>
+    <string name="btn_calcular_coseno">Calcular</string>
+    <string name="calculadora_perimetro">Calcular Perimetro</string>
+    <string name="longitud2_perimetro">Ingrese el lado 2</string>
+    <string name="longitud1_perimetro">Ingrese el lado 1</string>
+    <string name="longitud3_perimetro">Ingrese el lado 3</string>
+    <string name="calcular_perimetro">Calcular</string>
+    <string name="calculadora_raiz">Calcular Raiz</string>
+    <string name="numero_raiz">Ingrese el numero</string>
+    <string name="btn_calcular_raiz">Calcular</string>
+    <string name="calculadora_seno">Calcular Seno</string>
+    <string name="grados_seno">Grados</string>
+    <string name="radianes_seno">Radianes</string>
+    <string name="angulo_seno">Ingrese el numero</string>
+    <string name="calcular_seno">Calcular</string>
+</resources>
